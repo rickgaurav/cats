@@ -1,0 +1,18 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.list-item {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin-top: 12px;
+    justify-content: center;
+    align-self: center;
+    overflow: hidden;
+    border: 1px solid #D1D2CD;
+    border-radius: 4px;
+    object-fit: fill;
+}
