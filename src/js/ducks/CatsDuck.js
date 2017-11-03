@@ -25,6 +25,7 @@ export const getCats = createAction(
         dispatch(setCats(dispatch, cats));
         dispatch(setFilteredCats(dispatch, cats));
         dispatch(setCatCategories(dispatch, cats));
+        dispatch(setSelectedCatCategory(dispatch, cats, 'All Cats'));
     }
 );
 

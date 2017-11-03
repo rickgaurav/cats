@@ -19,7 +19,8 @@ export default class CatCategoriesDropdown extends Component {
                             return (
                                 <MenuItem
                                     key={`menu-item-${category}`}
-                                    onClick={() => this.setSelectedCategory(category)}>
+                                    onClick={() => this.setSelectedCategory(category)}
+                                    active={category === this.props.selected_category}>
                                     {category}
                                 </MenuItem>
                             );

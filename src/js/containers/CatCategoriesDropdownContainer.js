@@ -5,6 +5,7 @@ import CatCategoriesDropdown from "../components/CatCategoriesDropdown";
 const mapStateToProps = (state) => {
     return {
         categories: state.cats_duck.categories,
+        selected_category: state.cats_duck.selected_category,
         cats: state.cats_duck.cats
     };
 };

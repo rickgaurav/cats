@@ -16,3 +16,7 @@
     border-radius: 4px;
     object-fit: fill;
 }
+
+.right {
+    text-align: right;
+}
