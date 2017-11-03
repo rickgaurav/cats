@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "THis is a simple React+Redux project which play with cats",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+     "webpack": "./node_modules/.bin/webpack",
+     "open": "open build/index.html"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rickgaurav/cats.git"
