@@ -4,7 +4,7 @@ import {getCats} from '../ducks/CatsDuck';
 
 const mapStateToProps = (state) => {
     return {
-        cats: state.cats_duck.cats
+        cats: state.cats_duck.filtered_cats
     };
 };
 
