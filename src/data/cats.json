@@ -5,7 +5,7 @@
       "name": "Bengal Cat 1",
       "description": "Description of Bengal Cat 1. Description of Bengal Cat 1. Description of Bengal Cat 1. Description of Bengal Cat 1. Description of Bengal Cat 1.",
       "age": 1,
-      "category": "bengal_cat",
+      "category": "Bengal Cat",
       "url": "bengal_cat/bengal-cats-1.jpeg"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Bengal Cat 2",
       "description": "Description of Bengal Cat 2. Description of Bengal Cat 2. Description of Bengal Cat 2.",
       "age": 4,
-      "category": "bengal_cat",
+      "category": "Bengal Cat",
       "url": "bengal_cat/bengal-cats-2.jpeg"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Bengal Cat 4",
       "description": "Description of Bengal Cat 4. Description of Bengal Cat 4. Description of Bengal Cat 4. Description of Bengal Cat 4. Description of Bengal Cat 4.",
       "age": 8,
-      "category": "bengal_cat",
+      "category": "Bengal Cat",
       "url": "bengal_cat/bengal-cats-4.jpeg"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Bengal Cat 5",
       "description": "Description of Bengal Cat 5. Description of Bengal Cat 5. ",
       "age": 10,
-      "category": "bengal_cat",
+      "category": "Bengal Cat",
       "url": "bengal_cat/bengal-cats-5.jpeg"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Bengal Cat 6",
       "description": "Description of Bengal Cat 6. Description of Bengal Cat 6. Description of Bengal Cat 6.",
       "age": 12,
-      "category": "bengal_cat",
+      "category": "Bengal Cat",
       "url": "bengal_cat/bengal-cats-6.jpeg"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Bengal Cat 7",
       "description": "Description of Bengal Cat 7.",
       "age": 14,
-      "category": "bengal_cat",
+      "category": "Bengal Cat",
       "url": "bengal_cat/bengal-cats-7.jpeg"
     },
     {
@@ -53,7 +53,7 @@
       "name": "British Shorthair 3",
       "description": "Description of British Shorthair 3. Description of British Shorthair 3. Description of British Shorthair 3. Description of British Shorthair 3.",
       "age": 16,
-      "category": "british_shorthair",
+      "category": "British Shorthair",
       "url": "british_shorthair/shorthair-3.jpeg"
     },
     {
@@ -61,7 +61,7 @@
       "name": "British Shorthair 4",
       "description": "Description of British Shorthair 4.",
       "age": 16,
-      "category": "british_shorthair",
+      "category": "British Shorthair",
       "url": "british_shorthair/shorthair-4.jpeg"
     },
     {
@@ -69,7 +69,7 @@
       "name": "British Shorthair 5",
       "description": "Description of British Shorthair 5. Description of British Shorthair 5. Description of British Shorthair 5. ",
       "age": 16,
-      "category": "british_shorthair",
+      "category": "British Shorthair",
       "url": "british_shorthair/shorthair-5.jpeg"
     },
     {
@@ -77,7 +77,7 @@
       "name": "British Shorthair 6",
       "description": "Description of British Shorthair 6. Description of British Shorthair 6.",
       "age": 16,
-      "category": "british_shorthair",
+      "category": "British Shorthair",
       "url": "british_shorthair/shorthair-6.jpeg"
     },
     {
@@ -85,7 +85,7 @@
       "name": "British Shorthair 7",
       "description": "Description of British Shorthair 7. Description of British Shorthair 7. ",
       "age": 16,
-      "category": "british_shorthair",
+      "category": "British Shorthair",
       "url": "british_shorthair/shorthair-7.jpeg"
     },
     {
@@ -93,7 +93,7 @@
       "name": "coon 1",
       "description": "Description of Coon 1. Description of Coon 1. Description of Coon 1. Description of Coon 1. Description of Coon 1. ",
       "age": 16,
-      "category": "coon",
+      "category": "Coon",
       "url": "coon/coon-1.jpeg"
     },
     {
@@ -101,7 +101,7 @@
       "name": "coon 2",
       "description": "Description of Coon 2. Description of Coon 2. Description of Coon 2.",
       "age": 16,
-      "category": "coon",
+      "category": "Coon",
       "url": "coon/coon-2.jpeg"
     },
     {
@@ -109,7 +109,7 @@
       "name": "coon 3",
       "description": "Description of Coon 3.",
       "age": 16,
-      "category": "coon",
+      "category": "Coon",
       "url": "coon/coon-3.jpeg"
     },
     {
@@ -117,7 +117,7 @@
       "name": "coon 4",
       "description": "Description of Coon 4. Description of Coon 4. Description of Coon 4.",
       "age": 16,
-      "category": "coon",
+      "category": "Coon",
       "url": "coon/coon-4.jpeg"
     },
     {
@@ -125,7 +125,7 @@
       "name": "coon 5",
       "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
       "age": 16,
-      "category": "coon",
+      "category": "Coon",
       "url": "coon/coon-5.jpeg"
     },
     {
@@ -133,7 +133,7 @@
       "name": "persian Cat 1",
       "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
       "age": 16,
-      "category": "persian_cat",
+      "category": "Persian Cat",
       "url": "persian_cat/persian-1.jpg"
     },
     {
@@ -141,7 +141,7 @@
       "name": "persian Cat 2",
       "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
       "age": 16,
-      "category": "persian_cat",
+      "category": "Persian Cat",
       "url": "persian_cat/persian-2.jpeg"
     },
     {
@@ -149,7 +149,7 @@
       "name": "persian Cat 3",
       "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
       "age": 16,
-      "category": "persian_cat",
+      "category": "Persian Cat",
       "url": "persian_cat/persian-3.jpeg"
     },
     {
@@ -157,7 +157,7 @@
       "name": "persian Cat 5",
       "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
       "age": 16,
-      "category": "persian_cat",
+      "category": "Persian Cat",
       "url": "persian_cat/persian-5.jpg"
     },
     {
@@ -165,7 +165,7 @@
       "name": "Siamese Cat 1",
       "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
       "age": 16,
-      "category": "siamese_cat",
+      "category": "Siamese Cat",
       "url": "siamese_cat/siamese-1.jpeg"
     },
 
@@ -174,7 +174,7 @@
       "name": "Siamese Cat 3",
       "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
       "age": 16,
-      "category": "siamese_cat",
+      "category": "Siamese Cat",
       "url": "siamese_cat/siamese-3.jpeg"
     },
     {
@@ -182,7 +182,7 @@
       "name": "Siamese Cat 6",
       "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
       "age": 16,
-      "category": "siamese_cat",
+      "category": "Siamese Cat",
       "url": "siamese_cat/siamese-6.jpeg"
     },
     {
@@ -190,7 +190,7 @@
       "name": "Siamese Cat 7",
       "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
       "age": 16,
-      "category": "siamese_cat",
+      "category": "Siamese Cat",
       "url": "siamese_cat/siamese-7.jpg"
     },
     {
@@ -198,7 +198,7 @@
       "name": "Siamese Cat 8",
       "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
       "age": 16,
-      "category": "siamese_cat",
+      "category": "Siamese Cat",
       "url": "siamese_cat/siamese-8.jpg"
     }
   ]
