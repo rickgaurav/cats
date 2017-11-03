@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "THis is a simple React+Redux project which play with cats",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rickgaurav/cats.git"
@@ -14,5 +13,25 @@
   "bugs": {
     "url": "https://github.com/rickgaurav/cats/issues"
   },
-  "homepage": "https://github.com/rickgaurav/cats#readme"
+  "homepage": "https://github.com/rickgaurav/cats#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "redux": "^3.7.2",
+    "keymirror": "^0.1.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "redux-actions": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.17",
+    "copy-webpack-plugin": "^4.2.0",
+    "prop-types": "^15.6.0",
+    "webpack": "^3.8.1"
+  }
 }
