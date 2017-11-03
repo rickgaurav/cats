@@ -1,4 +1,6 @@
 import {createStore} from 'redux';
 import RootReducer from './RootReducer';
 
-export default createStore(RootReducer);
+let state = createStore(RootReducer);
+window.root_state = state;
+export default state;

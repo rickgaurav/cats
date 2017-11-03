@@ -7,7 +7,9 @@ const default_state = {
     cats: [],
     filtered_cats: [],
     categories: [],
-    selected_category: null
+    selected_category: null,
+    show_cat_modal: false,
+    selected_cat_id: null
 };
 
 const Action_Types = keyMirror({
@@ -15,7 +17,9 @@ const Action_Types = keyMirror({
     'SET_CATS': null,
     'SET_CAT_CATEGORY': null,
     'SET_CAT_CATEGORIES': null,
-    'SET_FILTERED_CATS': null
+    'SET_FILTERED_CATS': null,
+    'TOGGLE_CAT_MODAL': null,
+    'SET_SELECTED_CAT': null
 });
 
 export const getCats = createAction(
@@ -27,6 +31,18 @@ export const getCats = createAction(
         dispatch(setCatCategories(dispatch, cats));
         dispatch(setSelectedCatCategory(dispatch, cats, 'All Cats'));
     }
+);
+
+export const toggleCatModal = createAction(
+    Action_Types.TOGGLE_CAT_MODAL,
+    (dispatch, cat_id) => {
+        dispatch(setSelectedCat(dispatch, cat_id));
+    }
+);
+
+export const setSelectedCat = createAction(
+    Action_Types.SET_SELECTED_CAT,
+    (dispatch, cat_id) => ({cat_id})
 );
 
 export const setCats = createAction(
@@ -100,6 +116,18 @@ export default function reducer(state, action) {
             return {
                 ...state,
                 selected_category: action.payload.category
+            };
+
+        case Action_Types.TOGGLE_CAT_MODAL:
+            return {
+                ...state,
+                show_cat_modal: !state.show_cat_modal
+            };
+
+        case Action_Types.SET_SELECTED_CAT:
+            return {
+                ...state,
+                selected_cat_id: action.payload.cat_id
             };
 
         default:

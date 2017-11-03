@@ -1,6 +1,6 @@
 import {connect} from 'react-redux';
 import CatsList from '../components/CatsList';
-import {getCats} from '../ducks/CatsDuck';
+import {getCats, toggleCatModal} from '../ducks/CatsDuck';
 
 const mapStateToProps = (state) => {
     return {
@@ -10,7 +10,8 @@ const mapStateToProps = (state) => {
 
 const mapDispatchToProps = (dispatch) => {
     return {
-        getCats: () => dispatch(getCats(dispatch))
+        getCats: () => dispatch(getCats(dispatch)),
+        toggleCatModal: (cat_id) => dispatch(toggleCatModal(dispatch, cat_id))
     }
 };
 

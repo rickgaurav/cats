@@ -131,7 +131,7 @@
     {
       "id": "21",
       "name": "persian Cat 1",
-      "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
+      "description": "Description of Persian cat 1.",
       "age": 16,
       "category": "Persian Cat",
       "url": "persian_cat/persian-1.jpg"
@@ -139,7 +139,7 @@
     {
       "id": "22",
       "name": "persian Cat 2",
-      "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
+      "description": "Description of Persian cat 2.",
       "age": 16,
       "category": "Persian Cat",
       "url": "persian_cat/persian-2.jpeg"
@@ -147,7 +147,7 @@
     {
       "id": "23",
       "name": "persian Cat 3",
-      "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
+      "description": "Description of Persian cat 3. Description of Persian cat 3. Description of Persian cat 3.",
       "age": 16,
       "category": "Persian Cat",
       "url": "persian_cat/persian-3.jpeg"
@@ -155,7 +155,7 @@
     {
       "id": "25",
       "name": "persian Cat 5",
-      "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
+      "description": "Description of Persian cat 5. Description of Persian cat 5. Description of Persian cat 5. Description of Persian cat 5.",
       "age": 16,
       "category": "Persian Cat",
       "url": "persian_cat/persian-5.jpg"
@@ -163,7 +163,7 @@
     {
       "id": "26",
       "name": "Siamese Cat 1",
-      "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
+      "description": "Description of Siamese cat 1. Description of Siamese cat 1. Description of Siamese cat 1.",
       "age": 16,
       "category": "Siamese Cat",
       "url": "siamese_cat/siamese-1.jpeg"
@@ -172,7 +172,7 @@
     {
       "id": "28",
       "name": "Siamese Cat 3",
-      "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
+      "description": "Description of Siamese cat 3. Description of Siamese cat 3. Description of Siamese cat 3. Description of Siamese cat 3. Description of Siamese cat 3. Description of Siamese cat 3.",
       "age": 16,
       "category": "Siamese Cat",
       "url": "siamese_cat/siamese-3.jpeg"
@@ -180,7 +180,7 @@
     {
       "id": "31",
       "name": "Siamese Cat 6",
-      "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
+      "description": "Description of Siamese cat 6.",
       "age": 16,
       "category": "Siamese Cat",
       "url": "siamese_cat/siamese-6.jpeg"
@@ -188,7 +188,7 @@
     {
       "id": "32",
       "name": "Siamese Cat 7",
-      "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
+      "description": "Description of Siamese cat 7. Description of Siamese cat 7. Description of Siamese cat 7. Description of Siamese cat 7.",
       "age": 16,
       "category": "Siamese Cat",
       "url": "siamese_cat/siamese-7.jpg"
@@ -196,7 +196,7 @@
     {
       "id": "33",
       "name": "Siamese Cat 8",
-      "description": "Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5. Description of Coon 5.",
+      "description": "Description of Siamese cat 8. Description of Siamese cat 8. Description of Siamese cat 8.",
       "age": 16,
       "category": "Siamese Cat",
       "url": "siamese_cat/siamese-8.jpg"
