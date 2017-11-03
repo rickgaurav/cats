@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import CatsListContainer from "../containers/CatsListContainer";
+import CatCategoriesDropdownContainer from "../containers/CatCategoriesDropdownContainer";
 
 export default class App extends Component {
     render() {
@@ -13,6 +14,7 @@ export default class App extends Component {
                     </div>
                 </nav>
                 <div className="container">
+                    <CatCategoriesDropdownContainer/>
                     <CatsListContainer/>
                 </div>
             </div>
