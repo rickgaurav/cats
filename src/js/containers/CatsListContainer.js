@@ -10,7 +10,7 @@ const mapStateToProps = (state) => {
 
 const mapDispatchToProps = (dispatch) => {
     return {
-        getCats: () => dispatch(getCats())
+        getCats: () => dispatch(getCats(dispatch))
     }
 };
 
