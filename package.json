@@ -16,12 +16,13 @@
   "homepage": "https://github.com/rickgaurav/cats#readme",
   "dependencies": {
     "babel-core": "^6.26.0",
-    "redux": "^3.7.2",
     "keymirror": "^0.1.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-redux": "^5.0.6",
-    "redux-actions": "^2.2.1"
+    "redux": "^3.7.2",
+    "redux-actions": "^2.2.1",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
