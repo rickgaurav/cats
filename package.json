@@ -4,8 +4,8 @@
   "description": "THis is a simple React+Redux project which play with cats",
   "main": "index.js",
   "scripts": {
-     "webpack": "./node_modules/.bin/webpack",
-     "open": "open build/index.html"
+    "webpack": "./node_modules/.bin/webpack",
+    "open": "open build/index.html"
   },
   "repository": {
     "type": "git",
